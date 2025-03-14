@@ -10,3 +10,6 @@ Please view the [Wiki](https://github.com/midgen/uesvon/wiki) for more informati
 
 # 本插件UE论坛发布帖子
 https://forums.unrealengine.com/t/3d-navigation-plugin/112703
+
+# 插件全名
+Sparse Voxel Octree Navigation（稀疏体素八叉树导航）
