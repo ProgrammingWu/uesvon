@@ -8,3 +8,5 @@ Please view the [Wiki](https://github.com/midgen/uesvon/wiki) for more informati
 [![UESVON Demo](http://img.youtube.com/vi/84AFdg0ykwY/0.jpg)](http://www.youtube.com/watch?v=84AFdg0ykwY "Video Title")
 
 
+# 本插件UE论坛发布帖子
+https://forums.unrealengine.com/t/3d-navigation-plugin/112703
